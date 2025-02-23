@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL array processing.  The bug involves an incorrect loop condition that leads to an attempt to access an array element beyond its defined bounds.  The solution provides a corrected loop condition ensuring that the array is accessed correctly.
